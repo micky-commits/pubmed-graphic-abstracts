@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#fbfcfd"/>
+  <text x="800" y="72" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="48" font-weight="800" fill="#102033">無症候性高度頸動脈狭窄：再血行再建の上乗せ効果</text>
+  <text x="800" y="124" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="34" font-weight="700" fill="#0f7b7f">CREST-2：集中薬物療法単独 vs ステント / 内膜剥離術</text>
+  <text x="800" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#56616f">Brott TG et al. NEJM 2026 / PMID: 41269206</text>
+  <rect x="455" y="192" width="690" height="124" rx="18" fill="#ffffff" stroke="#203040" stroke-width="3"/>
+  <circle cx="535" cy="245" r="22" fill="#7aa0a1"/><circle cx="585" cy="245" r="22" fill="#9aa3a7"/><circle cx="635" cy="245" r="22" fill="#7aa0a1"/>
+  <rect x="516" y="270" width="38" height="35" rx="8" fill="#7aa0a1"/><rect x="566" y="270" width="38" height="35" rx="8" fill="#9aa3a7"/><rect x="616" y="270" width="38" height="35" rx="8" fill="#7aa0a1"/>
+  <text x="810" y="246" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="34" font-weight="800" fill="#101928">高度狭窄 ≥70%・無症候性</text>
+  <line x1="675" y1="264" x2="1065" y2="264" stroke="#203040" stroke-width="2"/>
+  <text x="810" y="300" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="28" font-weight="700" fill="#101928">155施設・5か国</text>
+  <path d="M500 316 V365 H300" fill="none" stroke="#087d7e" stroke-width="8"/><path d="M300 365 l22 -22 v44 z" fill="#087d7e"/>
+  <path d="M1100 316 V365 H1300" fill="none" stroke="#ef5548" stroke-width="8"/><path d="M1300 365 l-22 -22 v44 z" fill="#ef5548"/>
+  <rect x="55" y="365" width="700" height="285" rx="18" fill="#ffffff" stroke="#087d7e" stroke-width="4"/>
+  <rect x="250" y="365" width="505" height="72" fill="#087d7e"/>
+  <text x="505" y="414" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="34" font-weight="800" fill="#ffffff">頸動脈ステント + 集中薬物療法</text>
+  <rect x="250" y="475" width="460" height="110" rx="16" fill="#e8f6f5"/>
+  <text x="480" y="540" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="34" font-weight="800" fill="#087d7e">集中薬物療法単独</text>
+  <circle cx="505" cy="465" r="40" fill="#087d7e" stroke="#ffffff" stroke-width="6"/>
+  <text x="505" y="478" text-anchor="middle" font-family="Arial" font-size="32" font-weight="800" fill="#ffffff">VS</text>
+  <path d="M120 610 C145 515 115 460 140 388" fill="none" stroke="#b92f2c" stroke-width="34" stroke-linecap="round"/>
+  <path d="M170 610 C195 515 165 460 190 388" fill="none" stroke="#e15249" stroke-width="34" stroke-linecap="round"/>
+  <path d="M128 520 L192 430 M132 460 L202 540 M118 575 L185 495" stroke="#dfe9eb" stroke-width="8"/>
+  <rect x="845" y="365" width="700" height="285" rx="18" fill="#ffffff" stroke="#ef5548" stroke-width="4"/>
+  <rect x="1040" y="365" width="505" height="72" fill="#ef5548"/>
+  <text x="1292" y="414" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="34" font-weight="800" fill="#ffffff">内膜剥離術 + 集中薬物療法</text>
+  <rect x="1040" y="475" width="460" height="110" rx="16" fill="#fdecea"/>
+  <text x="1270" y="540" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="34" font-weight="800" fill="#ef5548">集中薬物療法単独</text>
+  <circle cx="1268" cy="465" r="40" fill="#ef5548" stroke="#ffffff" stroke-width="6"/>
+  <text x="1268" y="478" text-anchor="middle" font-family="Arial" font-size="32" font-weight="800" fill="#ffffff">VS</text>
+  <path d="M925 610 C950 515 920 460 945 388" fill="none" stroke="#b92f2c" stroke-width="34" stroke-linecap="round"/>
+  <path d="M975 610 C1000 515 970 460 995 388" fill="none" stroke="#e15249" stroke-width="34" stroke-linecap="round"/>
+  <ellipse cx="975" cy="505" rx="70" ry="24" fill="#f2c04e" transform="rotate(-18 975 505)"/>
+  <line x1="905" y1="480" x2="995" y2="515" stroke="#5f6872" stroke-width="5"/>
+  <line x1="1050" y1="480" x2="980" y2="515" stroke="#5f6872" stroke-width="5"/>
+  <rect x="45" y="680" width="335" height="175" rx="14" fill="#ffffff" stroke="#143b66" stroke-width="3"/>
+  <rect x="45" y="680" width="335" height="58" rx="14" fill="#143b66"/>
+  <text x="212" y="720" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="30" font-weight="800" fill="#ffffff">主要転帰 4年</text>
+  <text x="212" y="780" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="26" font-weight="700" fill="#143b66">全死亡・心筋梗塞・脳卒中</text>
+  <text x="212" y="825" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="26" font-weight="700" fill="#143b66">または同側脳梗塞</text>
+  <rect x="400" y="680" width="360" height="175" rx="14" fill="#ffffff" stroke="#087d7e" stroke-width="3"/>
+  <rect x="400" y="680" width="360" height="58" rx="14" fill="#087d7e"/>
+  <text x="580" y="720" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="30" font-weight="800" fill="#ffffff">ステント：6.0% → 2.8%</text>
+  <rect x="455" y="805" width="48" height="50" fill="#087d7e"/><rect x="525" y="825" width="48" height="30" fill="#8dc7c5"/><rect x="595" y="838" width="48" height="17" fill="#087d7e"/>
+  <text x="690" y="808" text-anchor="middle" font-family="Arial" font-size="46" font-weight="800" fill="#087d7e">2.8%</text>
+  <text x="690" y="845" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="24" font-weight="800" fill="#087d7e">有意低下</text>
+  <rect x="785" y="680" width="360" height="175" rx="14" fill="#ffffff" stroke="#ef5548" stroke-width="3"/>
+  <rect x="785" y="680" width="360" height="58" rx="14" fill="#ef5548"/>
+  <text x="965" y="720" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="30" font-weight="800" fill="#ffffff">内膜剥離術：5.3% → 3.7%</text>
+  <rect x="840" y="805" width="48" height="50" fill="#ef5548"/><rect x="910" y="823" width="48" height="32" fill="#f5a09a"/><rect x="980" y="835" width="48" height="20" fill="#f06c60"/>
+  <text x="1080" y="808" text-anchor="middle" font-family="Arial" font-size="46" font-weight="800" fill="#ef5548">3.7%</text>
+  <text x="1080" y="845" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="24" font-weight="800" fill="#ef5548">有意差なし</text>
+  <rect x="1170" y="680" width="385" height="175" rx="14" fill="#ffffff" stroke="#6c4a86" stroke-width="3"/>
+  <rect x="1170" y="680" width="385" height="58" rx="14" fill="#6c4a86"/>
+  <text x="1362" y="720" text-anchor="middle" font-family="Arial" font-size="30" font-weight="800" fill="#ffffff">Take-home</text>
+  <text x="1362" y="785" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="29" font-weight="800" fill="#4a2f66">ステントは低下、</text>
+  <text x="1362" y="830" text-anchor="middle" font-family="Arial, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="29" font-weight="800" fill="#4a2f66">CEAは明確な上乗せなし</text>
+</svg>
