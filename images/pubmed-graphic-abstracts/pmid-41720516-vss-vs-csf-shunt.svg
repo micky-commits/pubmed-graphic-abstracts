@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="126" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="40" font-weight="700" fill="#fff">IIH治療: 静脈洞ステント(VSS) vs CSFシャント</text>
+  <text x="72" y="124" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#d7f3ff">PMID: 41720516 | AJNR 2026 | 米国Nationwide Readmissions Database (2016-2022)</text>
+
+  <rect x="60" y="190" width="730" height="300" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="240" font-family="'Noto Sans JP',sans-serif" font-size="33" font-weight="700" fill="#0b5f7a">研究デザイン</text>
+  <text x="92" y="287" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・後ろ向きコホート（実臨床データ）</text>
+  <text x="92" y="328" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・IIHで待機的治療を受けた成人を抽出</text>
+  <text x="92" y="369" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・VSS群 1,511例 / 全体 7,795例</text>
+  <text x="92" y="410" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・PSM後: VSS 1,370例 vs シャント 2,786例</text>
+  <text x="92" y="451" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・主要評価: 300日以内治療失敗</text>
+
+  <rect x="810" y="190" width="730" height="300" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="842" y="240" font-family="'Noto Sans JP',sans-serif" font-size="33" font-weight="700" fill="#9a3412">主要結果</text>
+  <text x="842" y="287" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">・治療失敗: VSSが有意に低い</text>
+  <text x="842" y="328" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">　HR 0.59 (95%CI 0.43-0.80, P&lt;.001)</text>
+  <text x="842" y="369" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">・周術期 有害転帰: 2.2% vs 5.5% (P&lt;.001)</text>
+  <text x="842" y="410" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">・追跡中の罹病/死亡リスクも低下</text>
+  <text x="842" y="451" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">　HR 0.38 (95%CI 0.25-0.58, P&lt;.001)</text>
+
+  <rect x="60" y="520" width="1480" height="180" rx="16" fill="#ecfeff" stroke="#6ee7f9" stroke-width="3"/>
+  <text x="92" y="570" font-family="'Noto Sans JP',sans-serif" font-size="34" font-weight="700" fill="#0e7490">臨床的Take-home</text>
+  <text x="92" y="615" font-family="'Noto Sans JP',sans-serif" font-size="29" fill="#0f172a">・薬物治療抵抗性IIHの選択症例では、VSSはCSFシャントより再入院・再治療リスクを下げる可能性。</text>
+  <text x="92" y="655" font-family="'Noto Sans JP',sans-serif" font-size="29" fill="#0f172a">・周術期脳卒中/頭蓋内出血/死亡はいずれも低率で、VSSは有効かつ安全な代替戦略を示唆。</text>
+
+  <rect x="60" y="730" width="1480" height="130" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="778" font-family="'Noto Sans JP',sans-serif" font-size="23" fill="#334155">Chen H, et al. AJNR Am J Neuroradiol. 2026 May 4. DOI:10.3174/ajnr.A9250. PMID:41720516</text>
+  <text x="92" y="815" font-family="'Noto Sans JP',sans-serif" font-size="22" fill="#64748b">主要アウトカム: IIH関連再入院・機器合併症・再手術・死亡（300日）</text>
+</svg>
