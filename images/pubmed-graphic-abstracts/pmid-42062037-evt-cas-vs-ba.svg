@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="126" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="38" font-weight="700" fill="#fff">タンデム閉塞(ICA-MCA)に対するEVT戦略の実臨床比較</text>
+  <text x="72" y="124" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#d7f3ff">PMID: 42062037 | AJNR 2026 | Nationwide Readmissions Database (2016-2022)</text>
+
+  <rect x="60" y="190" width="730" height="300" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="240" font-family="'Noto Sans JP',sans-serif" font-size="33" font-weight="700" fill="#0b5f7a">研究デザイン</text>
+  <text x="92" y="287" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・後ろ向き全国コホート（米国, 2016-2022）</text>
+  <text x="92" y="328" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・対象: 同側ICA-MCAタンデム閉塞にEVT施行</text>
+  <text x="92" y="369" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・EVT単独 3371例 / EVT+BA 541例 / EVT+CAS 1015例</text>
+  <text x="92" y="410" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・主要評価: 退院時機能転帰（順序尺度）</text>
+  <text x="92" y="451" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">・副次評価: 院内死亡, 頭蓋内出血(ICH)</text>
+
+  <rect x="810" y="190" width="730" height="300" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="842" y="240" font-family="'Noto Sans JP',sans-serif" font-size="33" font-weight="700" fill="#9a3412">主要結果</text>
+  <text x="842" y="287" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">・EVT+BA: EVT単独との差は有意でなし</text>
+  <text x="842" y="328" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">・EVT+CAS: 機能転帰が改善</text>
+  <text x="842" y="369" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">　aOR 1.27 (95%CI 1.04-1.55, P=.02)</text>
+  <text x="842" y="410" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">・院内死亡率低下: 11.2% vs 21.6%</text>
+  <text x="842" y="451" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#7c2d12">　aOR 0.62 (95%CI 0.47-0.82, P&lt;.001)</text>
+
+  <rect x="60" y="520" width="1480" height="180" rx="16" fill="#ecfeff" stroke="#6ee7f9" stroke-width="3"/>
+  <text x="92" y="570" font-family="'Noto Sans JP',sans-serif" font-size="34" font-weight="700" fill="#0e7490">臨床的Take-home</text>
+  <text x="92" y="615" font-family="'Noto Sans JP',sans-serif" font-size="29" fill="#0f172a">・タンデム閉塞でEVTにCASを追加する戦略は、出血リスクを明確に増やさず機能予後と死亡率改善に関連。</text>
+  <text x="92" y="655" font-family="'Noto Sans JP',sans-serif" font-size="29" fill="#0f172a">・一方BA追加のみでは明確な上乗せ利益は示されず、症例選択と術式判断が重要。</text>
+
+  <rect x="60" y="730" width="1480" height="130" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="778" font-family="'Noto Sans JP',sans-serif" font-size="23" fill="#334155">Chen H, et al. AJNR Am J Neuroradiol. 2026 May 4. DOI:10.3174/ajnr.A9169. PMID:42062037</text>
+  <text x="92" y="815" font-family="'Noto Sans JP',sans-serif" font-size="22" fill="#64748b">ICH: EVT+CAS 37.5% vs EVT単独 34.4%（調整後有意差なし, P=.06）</text>
+</svg>
