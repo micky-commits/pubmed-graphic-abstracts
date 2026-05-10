@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="126" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="38" font-weight="700" fill="#fff">脳内出血後の血腫周囲浮腫増大は不良転帰と関連</text>
+  <text x="72" y="124" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#d7f3ff">PMID: 41778313 | Stroke 2026 | 個別患者データ・メタ解析</text>
+
+  <rect x="60" y="190" width="470" height="300" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="238" font-family="'Noto Sans JP',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">研究デザイン</text>
+  <circle cx="122" cy="303" r="30" fill="#d9f3fb" stroke="#0b5f7a" stroke-width="3"/>
+  <circle cx="192" cy="303" r="30" fill="#d9f3fb" stroke="#0b5f7a" stroke-width="3"/>
+  <circle cx="262" cy="303" r="30" fill="#d9f3fb" stroke="#0b5f7a" stroke-width="3"/>
+  <text x="92" y="366" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#0f172a">12研究 / 1523例</text>
+  <text x="92" y="407" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#0f172a">ICH発症後CTを解析</text>
+  <text x="92" y="448" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#0f172a">手術・PHE影響治療は除外</text>
+
+  <rect x="565" y="190" width="470" height="300" rx="16" fill="#ecfeff" stroke="#22b8cf" stroke-width="3"/>
+  <text x="597" y="238" font-family="'Noto Sans JP',sans-serif" font-size="32" font-weight="700" fill="#0e7490">曝露: PHE増大</text>
+  <rect x="625" y="288" width="120" height="92" rx="10" fill="#ffffff" stroke="#64748b" stroke-width="3"/>
+  <circle cx="680" cy="334" r="27" fill="#ef4444" opacity="0.85"/>
+  <circle cx="680" cy="334" r="48" fill="none" stroke="#22b8cf" stroke-width="10"/>
+  <path d="M755 334 L855 334" stroke="#0f172a" stroke-width="5" marker-end="url(#arrow)"/>
+  <rect x="865" y="278" width="120" height="112" rx="10" fill="#ffffff" stroke="#64748b" stroke-width="3"/>
+  <circle cx="920" cy="334" r="27" fill="#ef4444" opacity="0.85"/>
+  <circle cx="920" cy="334" r="62" fill="none" stroke="#22b8cf" stroke-width="13"/>
+  <text x="597" y="438" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#0f172a">診断CTから再検CTまでの</text>
+  <text x="597" y="474" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#0f172a">絶対PHE体積変化を評価</text>
+
+  <rect x="1070" y="190" width="470" height="300" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="1102" y="238" font-family="'Noto Sans JP',sans-serif" font-size="32" font-weight="700" fill="#9a3412">主要アウトカム</text>
+  <rect x="1120" y="288" width="370" height="74" rx="12" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+  <text x="1150" y="335" font-family="'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#7c2d12">90日死亡または依存</text>
+  <text x="1150" y="403" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#7c2d12">mRS 3-6</text>
+  <text x="1150" y="444" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#7c2d12">年齢・ICH体積などで調整</text>
+
+  <rect x="60" y="520" width="460" height="160" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="568" font-family="'Noto Sans JP',sans-serif" font-size="30" font-weight="700" fill="#0b5f7a">24±12時間</text>
+  <text x="92" y="620" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">1347例</text>
+  <text x="92" y="657" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#0f172a">調整OR 1.04 / mL</text>
+
+  <rect x="570" y="520" width="460" height="160" rx="16" fill="#ffffff" stroke="#f1a768" stroke-width="3"/>
+  <text x="602" y="568" font-family="'Noto Sans JP',sans-serif" font-size="30" font-weight="700" fill="#9a3412">72±12時間</text>
+  <text x="602" y="620" font-family="'Noto Sans JP',sans-serif" font-size="28" fill="#0f172a">495例</text>
+  <text x="602" y="657" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#0f172a">調整OR 1.02 / mL</text>
+
+  <rect x="1080" y="520" width="460" height="160" rx="16" fill="#0b5f7a"/>
+  <text x="1112" y="568" font-family="'Noto Sans JP',sans-serif" font-size="30" font-weight="700" fill="#ffffff">結論</text>
+  <text x="1112" y="620" font-family="'Noto Sans JP',sans-serif" font-size="27" fill="#d7f3ff">PHE増大は独立して</text>
+  <text x="1112" y="657" font-family="'Noto Sans JP',sans-serif" font-size="27" fill="#d7f3ff">死亡・依存と関連</text>
+
+  <rect x="60" y="715" width="1480" height="145" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="760" font-family="'Noto Sans JP',sans-serif" font-size="30" font-weight="700" fill="#0e7490">臨床的Take-home</text>
+  <text x="92" y="804" font-family="'Noto Sans JP',sans-serif" font-size="26" fill="#0f172a">ICH急性期のPHE体積増大は、二次性脳損傷の画像バイオマーカーとして予後層別化に有用。</text>
+  <text x="92" y="839" font-family="'Noto Sans JP',sans-serif" font-size="22" fill="#64748b">Samarasekera N, et al. Stroke. 2026. DOI:10.1161/STROKEAHA.125.053991. PMID:41778313</text>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0f172a"/>
+    </marker>
+  </defs>
+</svg>
