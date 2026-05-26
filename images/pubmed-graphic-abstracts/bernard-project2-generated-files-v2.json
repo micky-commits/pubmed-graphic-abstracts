@@ -1,0 +1,170 @@
+[
+  {
+    "no": 1,
+    "pmid": "25517348",
+    "label": "MR CLEAN",
+    "file": "pmid-25517348-mrclean-v2.svg",
+    "title": "近位前方循環LVOで血管内治療が標準治療を上回る"
+  },
+  {
+    "no": 2,
+    "pmid": "29129157",
+    "label": "DAWN",
+    "file": "pmid-29129157-dawn-v2.svg",
+    "title": "臨床・画像ミスマッチで6〜24時間でも血栓回収が有効"
+  },
+  {
+    "no": 3,
+    "pmid": "29364767",
+    "label": "DEFUSE 3",
+    "file": "pmid-29364767-defuse3-v2.svg",
+    "title": "灌流画像選択で6〜16時間でも血栓回収が有効"
+  },
+  {
+    "no": 4,
+    "pmid": "35138767",
+    "label": "RESCUE-Japan LIMIT",
+    "file": "pmid-35138767-rescue-japan-limit-v2.svg",
+    "title": "ASPECTS 3〜5のlarge coreでも血栓回収で転帰改善"
+  },
+  {
+    "no": 5,
+    "pmid": "36762865",
+    "label": "SELECT2",
+    "file": "pmid-36762865-select2-v2.svg",
+    "title": "大きな虚血コアでも血栓回収で機能転帰が改善"
+  },
+  {
+    "no": 6,
+    "pmid": "36762852",
+    "label": "ANGEL-ASPECT",
+    "file": "pmid-36762852-angel-aspect-v2.svg",
+    "title": "中国RCTでもlarge coreへのEVTが機能転帰を改善"
+  },
+  {
+    "no": 7,
+    "pmid": "39908430",
+    "label": "DISTAL",
+    "file": "pmid-39908430-distal-v2.svg",
+    "title": "中・遠位血管閉塞ではEVTの上乗せ効果を示せず"
+  },
+  {
+    "no": 8,
+    "pmid": "39908448",
+    "label": "ESCAPE-MeVO",
+    "file": "pmid-39908448-escape-mevo-v2.svg",
+    "title": "MeVOでは血栓回収で良好転帰は増えなかった"
+  },
+  {
+    "no": 9,
+    "pmid": "41582814",
+    "label": "AHA/ASA Guideline",
+    "file": "pmid-41582814-aha-asa-2026-guideline-v2.svg",
+    "title": "急性虚血性脳卒中管理を最新エビデンスで更新"
+  },
+  {
+    "no": 10,
+    "pmid": "30327386",
+    "label": "Semi-rural futile transfer",
+    "file": "pmid-30327386-futile-transfer-semirural-v2.svg",
+    "title": "半農村地域ではMT目的転送の45%が無益転送"
+  },
+  {
+    "no": 11,
+    "pmid": "39173104",
+    "label": "Fast infarct growth",
+    "file": "pmid-39173104-fast-infarct-growth-transfer-v2.svg",
+    "title": "転送中のfast progressorは不良側副路画像で予測"
+  },
+  {
+    "no": 12,
+    "pmid": "40985098",
+    "label": "ASPECTS decay transfer",
+    "file": "pmid-40985098-aspects-decay-transfer-alberta-v2.svg",
+    "title": "転送中ASPECTS低下は側副血行不良と不良転帰に関連"
+  },
+  {
+    "no": 13,
+    "pmid": "27758942",
+    "label": "EVT cost-effectiveness",
+    "file": "pmid-27758942-evt-cost-effectiveness-subgroups-v2.svg",
+    "title": "血栓回収は多くのサブグループで費用対効果良好"
+  },
+  {
+    "no": 14,
+    "pmid": "32840620",
+    "label": "Late MT cost-effectiveness",
+    "file": "pmid-32840620-late-mt-cost-effectiveness-v2.svg",
+    "title": "6時間超の血栓回収もDAWN/DEFUSE 3集団で費用対効果良好"
+  },
+  {
+    "no": 15,
+    "pmid": "33813852",
+    "label": "Transfer cost-effectiveness",
+    "file": "pmid-33813852-transfer-cost-effectiveness-recanalization-v2.svg",
+    "title": "IVT再開通確率は転送の費用対効果を左右する"
+  },
+  {
+    "no": 16,
+    "pmid": "35514281",
+    "label": "Stroke care costs",
+    "file": "pmid-35514281-stroke-care-costs-policy-v2.svg",
+    "title": "脳卒中医療費と費用対効果は政策判断の重要材料"
+  },
+  {
+    "no": 17,
+    "pmid": "33317416",
+    "label": "INTERRSeCT",
+    "file": "pmid-33317416-interrsect-thrombus-movement-v2.svg",
+    "title": "alteplase後の血栓移動は頻繁で大きな移動は良好転帰に関連"
+  },
+  {
+    "no": 18,
+    "pmid": "31597552",
+    "label": "MR CLEAN Registry",
+    "file": "pmid-31597552-thrombus-migration-paradox-v2.svg",
+    "title": "alteplaseは血栓移動・消失を増やし一部で転帰を改善"
+  },
+  {
+    "no": 19,
+    "pmid": "42025983",
+    "label": "SR/ER predictors",
+    "file": "pmid-42025983-spontaneous-early-recanalization-v2.svg",
+    "title": "EVT前の自然・早期再開通は5.6%でIVTとM2閉塞が予測因子"
+  },
+  {
+    "no": 20,
+    "pmid": "41801493",
+    "label": "Thrombus migration meta-analysis",
+    "file": "pmid-41801493-thrombus-migration-meta-analysis-v2.svg",
+    "title": "血栓移動は90日良好転帰と関連する可能性"
+  },
+  {
+    "no": 21,
+    "pmid": "41953987",
+    "label": "TNK vs alteplase",
+    "file": "pmid-41953987-tnk-vs-alteplase-ttp-v2.svg",
+    "title": "TNKの再開通優位性は穿刺まで60分未満で明瞭"
+  },
+  {
+    "no": 22,
+    "pmid": "27106593",
+    "label": "ASPECTS decay",
+    "file": "pmid-27106593-aspects-decay-interfacility-v2.svg",
+    "title": "転送中に約3分の1がASPECTS<6となりMT適格性を失う"
+  },
+  {
+    "no": 23,
+    "pmid": "39699745",
+    "label": "Transferred EVT infarct growth",
+    "file": "pmid-39699745-infarct-growth-transferred-evt-v2.svg",
+    "title": "転送中のASPECTS低下速度は90日転帰と強く関連"
+  },
+  {
+    "no": 24,
+    "pmid": "24443414",
+    "label": "ASPECTS decay outcomes",
+    "file": "pmid-24443414-aspects-decay-outcomes-v2.svg",
+    "title": "ASPECTS低下速度は静的ASPECTSより予後を反映"
+  }
+]
