@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">DEFUSE 3 graphical abstract</title>
+  <desc id="desc">Japanese graphical abstract summarizing thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging.</desc>
+  <defs>
+    <style>
+      .jp { font-family: Arial, "Hiragino Sans", "Yu Gothic", "Noto Sans CJK JP", sans-serif; }
+      .en { font-family: Arial, Helvetica, sans-serif; }
+      .navy { fill: #12324a; }
+      .muted { fill: #526474; }
+      .teal { fill: #087f83; }
+      .coral { fill: #e75b4f; }
+      .small { font-size: 23px; }
+      .body { font-size: 27px; }
+      .label { font-size: 30px; font-weight: 800; }
+      .num { font-size: 46px; font-weight: 900; }
+      .cardTitle { font-size: 26px; font-weight: 800; }
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="9" markerHeight="9" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#12324a"/>
+    </marker>
+    <linearGradient id="brainGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9f7f7"/>
+      <stop offset="1" stop-color="#fff4f2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="#f7fafb"/>
+
+  <rect x="48" y="34" width="1504" height="112" rx="8" fill="#12324a"/>
+  <text x="800" y="82" text-anchor="middle" class="jp" font-size="40" font-weight="900" fill="#ffffff">DEFUSE 3：灌流画像で選ぶと6〜16時間でも血栓回収が有効</text>
+  <text x="800" y="123" text-anchor="middle" class="jp" font-size="25" font-weight="700" fill="#d7f3f4">近位MCA / ICA閉塞・小コア・十分なミスマッチを対象にした多施設RCT</text>
+
+  <rect x="70" y="174" width="420" height="420" rx="8" fill="#ffffff" stroke="#bfd5dd" stroke-width="3"/>
+  <rect x="70" y="174" width="420" height="66" rx="8" fill="#eaf5f6"/>
+  <text x="280" y="216" text-anchor="middle" class="jp label teal">対象患者</text>
+
+  <g transform="translate(118 268)">
+    <path d="M130 20 C200 -6 285 38 306 116 C332 214 250 298 156 281 C102 306 32 273 20 210 C-34 166 2 84 70 74 C82 48 100 30 130 20 Z" fill="url(#brainGrad)" stroke="#83b9c4" stroke-width="5"/>
+    <path d="M73 154 C118 116 157 121 202 98 C240 79 272 99 282 137" fill="none" stroke="#087f83" stroke-width="18" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="160" cy="145" r="52" fill="none" stroke="#087f83" stroke-width="11"/>
+    <circle cx="160" cy="145" r="28" fill="#e75b4f" opacity="0.92"/>
+    <text x="160" y="226" text-anchor="middle" class="jp" font-size="23" font-weight="800" fill="#12324a">虚血だが未梗塞</text>
+  </g>
+
+  <text x="280" y="458" text-anchor="middle" class="jp body navy" font-weight="800">最終健常 6〜16時間</text>
+  <text x="280" y="500" text-anchor="middle" class="jp body navy">梗塞コア &lt;70 mL</text>
+  <text x="280" y="540" text-anchor="middle" class="jp body navy">ミスマッチ比 ≥1.8</text>
+  <text x="280" y="575" text-anchor="middle" class="jp small muted">38米国施設 / 182例で早期終了</text>
+
+  <path d="M520 384 H590" stroke="#12324a" stroke-width="8" marker-end="url(#arrow)"/>
+
+  <rect x="615" y="174" width="410" height="420" rx="8" fill="#ffffff" stroke="#087f83" stroke-width="4"/>
+  <rect x="615" y="174" width="410" height="66" rx="8" fill="#087f83"/>
+  <text x="820" y="216" text-anchor="middle" class="jp label" fill="#ffffff">血栓回収 + 内科治療</text>
+  <text x="820" y="275" text-anchor="middle" class="jp" font-size="31" font-weight="900" fill="#087f83">92例</text>
+
+  <g transform="translate(664 310)">
+    <path d="M38 146 C61 95 44 55 75 18" fill="none" stroke="#b52e36" stroke-width="32" stroke-linecap="round"/>
+    <path d="M108 146 C132 95 112 55 144 18" fill="none" stroke="#d84d48" stroke-width="32" stroke-linecap="round"/>
+    <path d="M92 92 H226" stroke="#12324a" stroke-width="7" marker-end="url(#arrow)"/>
+    <rect x="226" y="53" width="84" height="82" rx="10" fill="#e6f5f5" stroke="#087f83" stroke-width="5"/>
+    <path d="M242 91 h52" stroke="#087f83" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="98" cy="91" r="52" fill="none" stroke="#087f83" stroke-width="8" stroke-dasharray="11 9"/>
+  </g>
+
+  <text x="820" y="510" text-anchor="middle" class="jp body navy" font-weight="800">ステントリトリーバー等で再開通</text>
+  <text x="820" y="550" text-anchor="middle" class="jp small muted">標準内科治療に追加</text>
+
+  <rect x="1090" y="174" width="410" height="420" rx="8" fill="#ffffff" stroke="#e75b4f" stroke-width="4"/>
+  <rect x="1090" y="174" width="410" height="66" rx="8" fill="#e75b4f"/>
+  <text x="1295" y="216" text-anchor="middle" class="jp label" fill="#ffffff">内科治療単独</text>
+  <text x="1295" y="275" text-anchor="middle" class="jp" font-size="31" font-weight="900" fill="#e75b4f">90例</text>
+
+  <g transform="translate(1144 310)">
+    <path d="M56 146 C80 95 62 55 94 18" fill="none" stroke="#b52e36" stroke-width="32" stroke-linecap="round"/>
+    <path d="M126 146 C150 95 132 55 164 18" fill="none" stroke="#d84d48" stroke-width="32" stroke-linecap="round"/>
+    <rect x="218" y="49" width="88" height="88" rx="10" fill="#fff0ee" stroke="#e75b4f" stroke-width="5"/>
+    <path d="M238 75 h48 M238 101 h48" stroke="#e75b4f" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <text x="1295" y="510" text-anchor="middle" class="jp body navy" font-weight="800">抗血栓療法・支持療法</text>
+  <text x="1295" y="550" text-anchor="middle" class="jp small muted">血栓回収は追加しない</text>
+
+  <rect x="70" y="642" width="342" height="180" rx="8" fill="#ffffff" stroke="#12324a" stroke-width="3"/>
+  <text x="241" y="688" text-anchor="middle" class="jp cardTitle navy">90日mRS分布</text>
+  <text x="241" y="755" text-anchor="middle" class="en num" fill="#12324a">OR 2.77</text>
+  <text x="241" y="797" text-anchor="middle" class="jp small muted">血栓回収で有利にシフト</text>
+
+  <rect x="438" y="642" width="342" height="180" rx="8" fill="#ffffff" stroke="#087f83" stroke-width="3"/>
+  <text x="609" y="688" text-anchor="middle" class="jp cardTitle teal">機能的自立</text>
+  <text x="609" y="755" text-anchor="middle" class="en num" fill="#087f83">45% vs 17%</text>
+  <text x="609" y="797" text-anchor="middle" class="jp small muted">mRS 0〜2 at 90日</text>
+
+  <rect x="806" y="642" width="342" height="180" rx="8" fill="#ffffff" stroke="#e75b4f" stroke-width="3"/>
+  <text x="977" y="688" text-anchor="middle" class="jp cardTitle coral">90日死亡</text>
+  <text x="977" y="755" text-anchor="middle" class="en num" fill="#e75b4f">14% vs 26%</text>
+  <text x="977" y="797" text-anchor="middle" class="jp small muted">症候性ICH: 7% vs 4%</text>
+
+  <rect x="1174" y="642" width="326" height="180" rx="8" fill="#12324a"/>
+  <text x="1337" y="692" text-anchor="middle" class="en" font-size="28" font-weight="900" fill="#ffffff">Take-home</text>
+  <text x="1337" y="744" text-anchor="middle" class="jp" font-size="28" font-weight="900" fill="#d7f3f4">時間だけでなく</text>
+  <text x="1337" y="784" text-anchor="middle" class="jp" font-size="28" font-weight="900" fill="#d7f3f4">組織状態で選ぶ</text>
+
+  <text x="80" y="862" class="jp" font-size="20" fill="#526474">Albers GW et al. N Engl J Med. 2018;378:708-718. DOI: 10.1056/NEJMoa1713973 / PMID: 29364767</text>
+</svg>
