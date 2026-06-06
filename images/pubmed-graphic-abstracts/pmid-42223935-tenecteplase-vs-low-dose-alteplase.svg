@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="36" font-weight="700" fill="#ffffff">LVO血栓回収前: TNKは低用量tPAを超えるか？</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 42223935 | JAMA Neurology 2026 | Japan RCT, tenecteplase 0.25 mg/kg vs alteplase 0.6 mg/kg</text>
+
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">試験デザイン</text>
+  <text x="92" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・医師主導 多施設RCT</text>
+  <text x="92" y="335" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・LVO脳梗塞 + MT予定</text>
+  <text x="92" y="377" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・発症4.5時間以内IVT適応</text>
+  <text x="92" y="419" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・解析対象 218例</text>
+  <text x="92" y="461" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・主要評価: 初回血管撮影</text>
+
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">治療比較</text>
+  <text x="597" y="302" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="31" font-weight="700" fill="#7c2d12">TNK 0.25 mg/kg</text>
+  <text x="597" y="354" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">vs</text>
+  <text x="597" y="406" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="31" font-weight="700" fill="#7c2d12">Alteplase 0.6 mg/kg</text>
+  <text x="597" y="458" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="25" fill="#7c2d12">日本標準の低用量tPAと比較</text>
+
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">主要結果</text>
+  <text x="1102" y="296" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・初回著明再灌流</text>
+  <text x="1102" y="354" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="50" font-weight="700" fill="#0e7490">10.3%</text>
+  <text x="1295" y="354" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">vs 3.6%</text>
+  <text x="1102" y="408" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・90日mRS: TNK優位傾向</text>
+  <text x="1102" y="450" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・sICH / 死亡は同程度</text>
+
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="624" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・MT前ブリッジングで、標準用量TNKは日本標準の低用量alteplaseより初期再灌流を増やす。</text>
+  <text x="92" y="666" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・安全性は同程度で、低用量tPA地域におけるTNK導入の根拠になりうる。</text>
+
+  <rect x="60" y="734" width="710" height="105" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="92" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">Early reperfusion</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">TNK 10.3% vs alteplase 3.6%</text>
+
+  <rect x="830" y="734" width="710" height="105" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="862" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">Safety</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">sICH 2.8% vs 1.8% / 死亡 6.5% vs 9.9%</text>
+
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Inoue M, Hirano T, Fukuda-Doi M, et al. JAMA Neurol. 2026. PMID: 42223935</text>
+</svg>
