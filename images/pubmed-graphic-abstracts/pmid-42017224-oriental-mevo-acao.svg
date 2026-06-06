@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="37" font-weight="700" fill="#ffffff">ACA閉塞にも血栓回収は効くのか？</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 42017224 | Stroke 2026 | ORIENTAL-MeVO registry, ACAo within 24 hours</text>
+
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">対象</text>
+  <text x="92" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・急性ACA閉塞 A1/A2/A3</text>
+  <text x="92" y="335" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・発症24時間以内</text>
+  <text x="92" y="377" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・中国25施設レジストリ</text>
+  <text x="92" y="419" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・後ろ向き多施設研究</text>
+  <text x="92" y="461" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・解析対象 n=343</text>
+
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">比較</text>
+  <text x="597" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">EVT</text>
+  <text x="660" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">血管内血栓回収</text>
+  <line x1="640" y1="335" x2="960" y2="335" stroke="#f97316" stroke-width="8" stroke-linecap="round"/>
+  <polygon points="960,335 930,318 930,352" fill="#f97316"/>
+  <text x="597" y="390" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">SMM</text>
+  <text x="675" y="390" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">標準内科治療</text>
+  <text x="597" y="452" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="25" fill="#7c2d12">PSM / IPTWで背景因子を調整</text>
+
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">主要結果</text>
+  <text x="1102" y="296" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・90日mRS分布がEVTで改善</text>
+  <text x="1102" y="338" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" font-weight="700" fill="#155e75">・aOR 2.14</text>
+  <text x="1102" y="380" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" fill="#155e75">　95%CI 1.59-2.89</text>
+  <text x="1102" y="422" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・中等症〜重症例で特に有用</text>
+  <text x="1102" y="464" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・sICH / 90日死亡は増加せず</text>
+
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="624" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・ACA閉塞はエビデンスが薄い領域だが、ORIENTAL-MeVOではEVTが機能転帰改善に関連。</text>
+  <text x="92" y="666" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・中等症以上のACA閉塞では、出血・死亡を増やさず治療選択肢として検討しうる。</text>
+
+  <rect x="60" y="734" width="710" height="105" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="92" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">EVT benefit</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">90日mRS分布改善 / aOR 2.14</text>
+
+  <rect x="830" y="734" width="710" height="105" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="862" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">Safety</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">症候性頭蓋内出血・90日死亡は増加せず</text>
+
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Zhang K, Jing X, Abdalkader M, et al. Stroke. 2026. PMID: 42017224</text>
+</svg>
