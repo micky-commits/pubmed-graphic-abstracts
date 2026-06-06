@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="36" font-weight="700" fill="#ffffff">血栓回収で再開通しない症例は予測できるか？</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 42089150 | Stroke 2026 | EVATRISP collaboration, 18 European centers</text>
+
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">大規模レジストリ</text>
+  <text x="92" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・EVATRISP 2015-2024</text>
+  <text x="92" y="335" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・欧州18アカデミック施設</text>
+  <text x="92" y="377" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・EVT施行LVO脳卒中</text>
+  <text x="92" y="419" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・解析対象 10,942例</text>
+  <text x="92" y="461" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・UR: mTICI &lt;2b</text>
+
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">不成功再開通</text>
+  <text x="597" y="320" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="72" font-weight="700" fill="#ea580c">27%</text>
+  <text x="765" y="320" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">がUR</text>
+  <text x="597" y="384" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">・成功再開通: 73%</text>
+  <text x="597" y="428" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">・URは予後不良・死亡増加と関連</text>
+
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">関連因子</text>
+  <text x="1102" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" fill="#155e75">UR側: 高齢, 高pre-mRS</text>
+  <text x="1102" y="334" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" fill="#155e75">wake-up, 転院, 高NIHSS</text>
+  <text x="1102" y="375" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" fill="#155e75">tPA投与, M2/近位ACA/PCA</text>
+  <text x="1102" y="429" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">予測ツールAUC 0.579</text>
+  <text x="1102" y="467" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="25" fill="#155e75">正確な予測は依然として困難</text>
+
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="624" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・不成功再開通は約4人に1人で、転帰不良と死亡増加に直結する。</text>
+  <text x="92" y="666" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・複数のリスク因子はあるが予測精度は低く、適格例にはEVTを行う方針を支持。</text>
+
+  <rect x="60" y="734" width="710" height="105" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="92" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">Risk signal</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">UR 27% / poor outcome and mortality</text>
+
+  <rect x="830" y="734" width="710" height="105" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="862" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">Decision point</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">予測困難なので eligible patients はEVTへ</text>
+
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Schwartzmann Y, Heldner MR, Jubran H, et al. Stroke. 2026. PMID: 42089150</text>
+</svg>
