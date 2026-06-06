@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="36" font-weight="700" fill="#ffffff">CSF静脈瘻TVE後のリバウンド頭蓋内圧亢進</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 41198227 | AJNR 2026 | CSF-venous fistula, transvenous embolization</text>
+
+  <rect x="60" y="190" width="460" height="300" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="240" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">対象と方法</text>
+  <text x="92" y="292" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・CSF静脈瘻によるSIH</text>
+  <text x="92" y="333" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・経静脈塞栓術 TVE</text>
+  <text x="92" y="374" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・単施設後ろ向き連続例</text>
+  <text x="92" y="415" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・100例 / 105手技 / 132瘻</text>
+  <text x="92" y="456" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・術後1-3日でRIH評価</text>
+
+  <rect x="570" y="190" width="460" height="300" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="602" y="240" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">発生頻度</text>
+  <text x="602" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="64" font-weight="700" fill="#ea580c">80%</text>
+  <text x="760" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">でRIH症状</text>
+  <text x="602" y="371" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="52" font-weight="700" fill="#ea580c">54%</text>
+  <text x="730" y="371" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">が中等度〜重度</text>
+  <text x="602" y="432" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">・治療的腰椎穿刺: 8例 (7.6%)</text>
+
+  <rect x="1080" y="190" width="460" height="300" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="1112" y="240" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">予測因子</text>
+  <text x="1112" y="292" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・単発CVFへのTVE</text>
+  <text x="1112" y="344" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="31" font-weight="700" fill="#155e75">OR 2.8</text>
+  <text x="1230" y="344" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="25" fill="#155e75">95%CI 1.04-7.85</text>
+  <text x="1112" y="402" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・中等度〜重度RIHと関連</text>
+  <text x="1112" y="444" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・早期フォローが重要</text>
+
+  <rect x="60" y="520" width="1480" height="180" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="570" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="620" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・TVEでCSF漏を閉じた後は、低髄液圧から高髄液圧へ振れるRIHが非常に多い。</text>
+  <text x="92" y="662" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・術後1-3日の頭痛変化を積極的に確認し、必要時はRIH管理へ早めに切り替える。</text>
+
+  <rect x="60" y="734" width="710" height="105" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="92" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">RIH is common</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">術後早期に80%、半数以上が中等度以上</text>
+
+  <rect x="830" y="734" width="710" height="105" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="862" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">Workflow point</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">TVE後は早期外来・電話確認を標準化</text>
+
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Schartz D, Kranz PG, Amrhein TJ, et al. AJNR Am J Neuroradiol. 2026. PMID: 41198227</text>
+</svg>
