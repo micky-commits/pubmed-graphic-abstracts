@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="35" font-weight="700" fill="#ffffff">FRED Jrで末梢MCA/ACA動脈瘤を治療</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 41139479 | AJNR 2026 | distal unruptured aneurysms, single-center experience</text>
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">対象</text>
+  <text x="92" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・未破裂末梢MCA/ACA瘤</text>
+  <text x="92" y="335" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・M2/M3, A2/A3</text>
+  <text x="92" y="377" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・56例 / 56動脈瘤</text>
+  <text x="92" y="419" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・平均サイズ 3.60 mm</text>
+  <text x="92" y="461" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・単施設後ろ向き</text>
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">有効性</text>
+  <text x="597" y="310" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="52" font-weight="700" fill="#0e7490">100%</text>
+  <text x="760" y="310" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">留置成功</text>
+  <text x="597" y="370" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">optimal apposition 82.1%</text>
+  <text x="597" y="426" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">良好な閉塞率</text>
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">注意点</text>
+  <text x="1102" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="42" font-weight="700" fill="#ea580c">17.8%</text>
+  <text x="1270" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">画像上有害所見</text>
+  <text x="1102" y="362" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">・無症候性ステント内狭窄</text>
+  <text x="1102" y="404" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">・分枝閉塞</text>
+  <text x="1102" y="456" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" fill="#7c2d12">ISA / jailed branchが失敗リスク</text>
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="624" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・FRED Jrは末梢小型動脈瘤でも高い技術的成功と良好な閉塞を示す。</text>
+  <text x="92" y="666" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・一方で無症候性狭窄/分枝閉塞が約18%あり、ISAとneck branchの術前評価が重要。</text>
+  <rect x="60" y="734" width="710" height="105" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="92" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">High success</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">deployment success 100%</text>
+  <rect x="830" y="734" width="710" height="105" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="862" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">Planning point</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">ISA / jailed branchを避ける戦略</text>
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Tian Q, Kou S, Shi S, et al. AJNR Am J Neuroradiol. 2026. PMID: 41139479</text>
+</svg>
