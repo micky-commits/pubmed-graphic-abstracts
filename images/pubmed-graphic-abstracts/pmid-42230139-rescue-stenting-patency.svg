@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="37" font-weight="700" fill="#ffffff">ICAS-ELVOレスキューステント後の開存性を守るには？</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 42230139 | J NeuroIntervent Surg 2026 | anterior circulation ICAS-ELVO, rescue stenting cohort</text>
+
+  <rect x="60" y="190" width="460" height="300" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="240" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">研究の焦点</text>
+  <text x="92" y="292" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・ICAS関連ELVO</text>
+  <text x="92" y="333" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・血栓回収で再開通が不安定</text>
+  <text x="92" y="374" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・レスキューステント施行</text>
+  <text x="92" y="415" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・7日以内の血管画像で評価</text>
+  <text x="92" y="456" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・後ろ向き解析 n=86</text>
+
+  <rect x="570" y="190" width="460" height="300" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="602" y="240" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">閉塞に寄る因子</text>
+  <text x="602" y="292" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">・開存性低下: 18例 (20.9%)</text>
+  <text x="602" y="333" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">・ステント留置前の回収回数増加</text>
+  <text x="602" y="374" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">・内皮障害 / 血栓性負荷の蓄積</text>
+  <text x="602" y="415" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">・開存性低下は転帰不良に関連</text>
+  <path d="M650 450 C710 420, 770 420, 835 450 S950 480, 990 450" fill="none" stroke="#ea580c" stroke-width="8" stroke-linecap="round"/>
+
+  <rect x="1080" y="190" width="460" height="300" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="1112" y="240" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">開存を守る因子</text>
+  <text x="1112" y="292" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・術後チロフィバン持続投与</text>
+  <text x="1112" y="333" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・開存性保持と独立して関連</text>
+  <text x="1112" y="374" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・良好転帰の可能性が上昇</text>
+  <text x="1112" y="415" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">・早期神経悪化も抑える方向</text>
+  <circle cx="1190" cy="455" r="17" fill="#14b8a6"/>
+  <circle cx="1255" cy="455" r="17" fill="#14b8a6"/>
+  <circle cx="1320" cy="455" r="17" fill="#14b8a6"/>
+  <rect x="1360" y="440" width="98" height="30" rx="15" fill="#14b8a6"/>
+
+  <rect x="60" y="520" width="1480" height="188" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="570" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="620" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・ICAS-ELVOでレスキューステントを選ぶなら、「何回粘ってから置くか」が開存性に関わる。</text>
+  <text x="92" y="663" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・開存性は転帰と直結するため、早めのステント判断と術後抗血小板管理の最適化が鍵。</text>
+
+  <rect x="60" y="736" width="710" height="104" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="92" y="781" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">Preserved patency</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">チロフィバン持続投与 / 良好転帰と関連</text>
+
+  <rect x="830" y="736" width="710" height="104" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="862" y="781" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">Impaired patency</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">留置前の血栓回収回数増加 / 転帰不良と関連</text>
+
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Lee IH, Ha SK, Lim DJ, Choi JI. Journal of NeuroInterventional Surgery. 2026. PMID: 42230139</text>
+</svg>
