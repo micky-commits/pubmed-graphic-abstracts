@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="35" font-weight="700" fill="#ffffff">SAC後抗血小板療法: CYP2C19で個別化</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 40850765 | JNIS 2026 | genotype-guided DAPT after stent-assisted coiling</text>
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">研究</text>
+  <text x="92" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・未破裂脳動脈瘤</text>
+  <text x="92" y="335" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・SAC施行 403例</text>
+  <text x="92" y="377" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・後ろ向きコホート</text>
+  <text x="92" y="419" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・標準DAPT vs 遺伝子型ガイド</text>
+  <text x="92" y="461" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・90日虚血イベント</text>
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">虚血イベント</text>
+  <text x="597" y="310" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="48" font-weight="700" fill="#0e7490">4.9%</text>
+  <text x="760" y="310" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">vs 10.9%</text>
+  <text x="597" y="370" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">相対リスク低下 54.9%</text>
+  <text x="597" y="426" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">P = 0.029</text>
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">出血安全性</text>
+  <text x="1102" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="31" fill="#7c2d12">6.6%</text>
+  <text x="1200" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">vs 4.5%</text>
+  <text x="1102" y="362" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">有意差なし</text>
+  <text x="1102" y="420" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">P = 0.388</text>
+  <text x="1102" y="462" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" fill="#7c2d12">出血増加を示さず</text>
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="624" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・SAC後のDAPTをCYP2C19に基づき個別化すると、頭蓋内虚血イベントが有意に減少。</text>
+  <text x="92" y="666" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・出血合併症は増えず、周術期抗血小板管理の実装可能な精密化戦略。</text>
+  <rect x="60" y="734" width="710" height="105" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="92" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">Efficacy</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">頭蓋内虚血 4.9% vs 10.9%</text>
+  <rect x="830" y="734" width="710" height="105" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="862" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">Safety</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">全身性出血は有意差なし</text>
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Yang M, Zhang X, Xu J, et al. J NeuroIntervent Surg. 2026. PMID: 40850765</text>
+</svg>
