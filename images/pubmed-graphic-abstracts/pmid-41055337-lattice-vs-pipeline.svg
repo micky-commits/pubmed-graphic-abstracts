@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="35" font-weight="700" fill="#ffffff">Lattice FD vs Pipeline: 実臨床PSM比較</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 41055337 | Neurosurgery 2026 | unruptured aneurysms, propensity score matching</text>
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">対象</text>
+  <text x="92" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・未破裂脳動脈瘤</text>
+  <text x="92" y="335" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・LFD 99例 / PED 187例</text>
+  <text x="92" y="377" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・2023-2024 実臨床</text>
+  <text x="92" y="419" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・PSM後 55ペア</text>
+  <text x="92" y="461" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・短期血管撮影追跡</text>
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">閉塞と転帰</text>
+  <text x="597" y="302" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#155e75">完全閉塞</text>
+  <text x="597" y="356" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="42" font-weight="700" fill="#0e7490">87.3%</text>
+  <text x="760" y="356" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">vs 85.5%</text>
+  <text x="597" y="414" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">良好転帰 96.4% vs 94.5%</text>
+  <text x="597" y="456" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">有意差なし</text>
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">ステント内狭窄</text>
+  <text x="1102" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="48" font-weight="700" fill="#ea580c">1.8%</text>
+  <text x="1260" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">vs 14.5%</text>
+  <text x="1102" y="362" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">P = .037</text>
+  <text x="1102" y="420" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">LFDでISSが低い</text>
+  <text x="1102" y="462" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" fill="#7c2d12">長期RCTで検証が必要</text>
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="624" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・Lattice FDはPipelineと同等の短期閉塞率・臨床転帰を示しつつ、ステント内狭窄が少なかった。</text>
+  <text x="92" y="666" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・表面改質/機械的バルーンベースの利点は有望だが、長期ランダム化試験で確認が必要。</text>
+  <rect x="60" y="734" width="710" height="105" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="92" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">Comparable efficacy</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">complete occlusion 87.3% vs 85.5%</text>
+  <rect x="830" y="734" width="710" height="105" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="862" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">Lower ISS</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">1.8% vs 14.5%</text>
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Bao L, Lu Y, He S, Zhang Y. Neurosurgery. 2026. PMID: 41055337</text>
+</svg>
