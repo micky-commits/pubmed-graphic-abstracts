@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="35" font-weight="700" fill="#ffffff">EVIDENCE試験: FDはコイルを上回るか？</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 41093742 | AJNR 2026 | unruptured wide-neck aneurysms, randomized comparison</text>
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#ffffff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">対象</text>
+  <text x="92" y="293" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・未破裂ワイドネック動脈瘤</text>
+  <text x="92" y="335" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・7-20 mm / neck 4-10 mm</text>
+  <text x="92" y="377" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・フランス7大学病院RCT</text>
+  <text x="92" y="419" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・解析87例</text>
+  <text x="92" y="461" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#0f172a">・多くは&lt;10mm眼動脈部瘤</text>
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">比較</text>
+  <text x="597" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="31" font-weight="700" fill="#7c2d12">Flow Diversion</text>
+  <text x="597" y="358" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#7c2d12">vs</text>
+  <text x="597" y="412" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="31" font-weight="700" fill="#7c2d12">Coiling ± Stent</text>
+  <text x="597" y="462" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="25" fill="#7c2d12">主要評価: 12か月治療失敗</text>
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">結果</text>
+  <text x="1102" y="304" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#155e75">治療失敗</text>
+  <text x="1102" y="362" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="48" font-weight="700" fill="#0e7490">18.6%</text>
+  <text x="1285" y="362" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">vs 23.3%</text>
+  <text x="1102" y="420" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">RR 0.80 (95%CI 0.35-1.83)</text>
+  <text x="1102" y="462" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#155e75">FDの優越性は示されず</text>
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">臨床的Take-home</text>
+  <text x="92" y="624" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・小型眼動脈部が多い未破裂ワイドネック瘤では、FDはコイル治療に対する優越性を示せなかった。</text>
+  <text x="92" y="666" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">・FDの選択は「ワイドネックだから一律」ではなく、瘤部位・サイズ・期待閉塞を踏まえて個別化。</text>
+  <rect x="60" y="734" width="710" height="105" rx="12" fill="#fff7ed" stroke="#f1a768" stroke-width="2"/>
+  <text x="92" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#9a3412">Primary outcome</text>
+  <text x="92" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#7c2d12">治療失敗 18.6% vs 23.3%</text>
+  <rect x="830" y="734" width="710" height="105" rx="12" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+  <text x="862" y="780" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="26" font-weight="700" fill="#0e7490">Message</text>
+  <text x="862" y="818" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="24" fill="#155e75">FD superiority not proven</text>
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Boisseau W, Combaz X, Levrier O, et al. AJNR Am J Neuroradiol. 2026. PMID: 41093742</text>
+</svg>
