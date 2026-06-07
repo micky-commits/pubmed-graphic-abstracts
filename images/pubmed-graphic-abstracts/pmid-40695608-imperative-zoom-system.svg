@@ -1,1 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><rect width="1600" height="900" fill="#f7fbfb"/><rect width="1600" height="118" fill="#153f4a"/><text x="64" y="58" font-size="38" fill="#fff" font-weight="800">Imperative Trial</text><text x="64" y="98" font-size="24" fill="#ccebed" font-weight="600">0.088インチ吸引カテーテルを含むZoom再灌流システム</text><text x="1390" y="72" font-size="24" fill="#fff" font-weight="700">PMID: 40695608</text><rect x="64" y="168" width="450" height="410" rx="14" fill="#e6f4f1" stroke="#64aaa5" stroke-width="4"/><rect x="575" y="168" width="450" height="410" rx="14" fill="#fff7ea" stroke="#e3a548" stroke-width="4"/><rect x="1086" y="168" width="450" height="410" rx="14" fill="#fdeeed" stroke="#df7e74" stroke-width="4"/><text x="96" y="218" font-size="30" fill="#12615b" font-weight="800">対象</text><text x="96" y="282" font-size="26" fill="#20303a" font-weight="700">前方循環LVO</text><text x="96" y="318" font-size="26" fill="#20303a">発症8時間以内</text><text x="96" y="354" font-size="26" fill="#20303a">260例</text><text x="607" y="218" font-size="30" fill="#8b5a04" font-weight="800">介入・評価</text><text x="607" y="282" font-size="26" fill="#20303a" font-weight="700">Zoomシステム単独</text><text x="607" y="318" font-size="26" fill="#20303a">3パス以内再灌流</text><text x="607" y="354" font-size="26" fill="#20303a">安全性も評価</text><text x="1118" y="218" font-size="30" fill="#9a312c" font-weight="800">主要結果</text><text x="1118" y="282" font-size="26" fill="#20303a" font-weight="700">3パス以内mTICI 2b-3: 83%</text><text x="1118" y="318" font-size="26" fill="#20303a">最終再灌流: 92%</text><text x="1118" y="354" font-size="26" fill="#20303a">穿刺-再灌流中央値19分</text><rect x="64" y="638" width="1472" height="150" rx="18" fill="#fff" stroke="#d6e2e2" stroke-width="3"/><text x="96" y="692" font-size="30" fill="#153f4a" font-weight="800">臨床的Take-home</text><text x="96" y="742" font-size="30" fill="#20303a" font-weight="700">大径アクセスを含む一体型システムで、迅速な再灌流が期待される。</text><text x="64" y="842" font-size="20" fill="#63747a">Japanese graphical abstract / PubMed新着文献アラートDB</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      .bg{fill:#f7fbfb}.ink{fill:#17323a}.muted{fill:#60747a}.deep{fill:#123f49}.teal{fill:#0f766e}.blue{fill:#2b6f9e}.coral{fill:#c7514a}.amber{fill:#9a6500}
+      .title{font:800 41px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}.sub{font:700 24px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}
+      .h{font:800 28px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}.t{font:650 23px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}
+      .s{font:600 19px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}.xs{font:600 16px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}
+      .card{fill:#fff;stroke:#d5e3e3;stroke-width:2}.tealCard{fill:#e7f4f1;stroke:#5daaa4;stroke-width:3}.blueCard{fill:#eaf3f9;stroke:#74a8c9;stroke-width:3}.amberCard{fill:#fff5df;stroke:#dea34a;stroke-width:3}.coralCard{fill:#fdebea;stroke:#db7771;stroke-width:3}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1,1 L11,6 L1,11 Z" fill="#49636b"/></marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <rect x="0" y="0" width="1600" height="126" fill="#123f49"/>
+  <text x="58" y="58" class="title" fill="#fff">Imperative Trial: Zoom Reperfusion System</text>
+  <text x="60" y="98" class="sub" fill="#c9eceb">0.088インチ頭蓋内ガイド/吸引カテーテルを含む「システム全体」の血栓回収試験</text>
+  <rect x="1284" y="35" width="258" height="54" rx="12" fill="#e7f4f1"/>
+  <text x="1310" y="69" class="sub deep">PMID 40695608</text>
+
+  <rect x="54" y="154" width="384" height="246" rx="18" class="tealCard"/>
+  <text x="84" y="198" class="h teal">試験デザイン</text>
+  <text x="84" y="242" class="t ink">前向き・多施設</text>
+  <text x="84" y="276" class="t ink">非ランダム化 IDE trial</text>
+  <text x="84" y="310" class="t ink">米国 26施設 / 260例</text>
+  <text x="84" y="356" class="s muted">前方循環LVO / 発症8時間以内</text>
+
+  <rect x="466" y="154" width="668" height="246" rx="18" class="card"/>
+  <text x="498" y="198" class="h deep">Zoomシステムの構成</text>
+  <path d="M540 292 C640 226, 745 226, 840 292 C925 352, 1010 346, 1070 286" fill="none" stroke="#9bb8c2" stroke-width="24" stroke-linecap="round"/>
+  <path d="M540 292 C640 226, 745 226, 840 292 C925 352, 1010 346, 1070 286" fill="none" stroke="#2b6f9e" stroke-width="12" stroke-linecap="round"/>
+  <path d="M590 293 L865 293" stroke="#0f766e" stroke-width="18" stroke-linecap="round"/>
+  <path d="M590 293 L865 293" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="900" cy="292" r="26" fill="#c7514a"/>
+  <text x="510" y="354" class="s blue">0.035-0.071インチ吸引カテーテル</text>
+  <text x="794" y="354" class="s teal">新規 0.088インチ intracranial guide/aspiration</text>
+
+  <rect x="1162" y="154" width="384" height="246" rx="18" class="amberCard"/>
+  <text x="1192" y="198" class="h amber">主要評価項目</text>
+  <text x="1192" y="242" class="t ink">Zoom-only componentで</text>
+  <text x="1192" y="276" class="t ink">3パス以内 mTICI 2b-3</text>
+  <text x="1192" y="310" class="t ink">独立コアラボ判定</text>
+  <text x="1192" y="356" class="s muted">安全性: 症候性頭蓋内出血</text>
+
+  <line x1="214" y1="442" x2="1390" y2="442" stroke="#49636b" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="628" y="432" class="s muted">「単一デバイス」ではなく、導入から吸引までの再灌流システムとして評価</text>
+
+  <rect x="64" y="482" width="280" height="142" rx="18" class="blueCard"/>
+  <text x="94" y="528" class="h blue">3パス以内</text>
+  <text x="94" y="576" class="title blue">83%</text>
+  <text x="94" y="604" class="xs muted">216/259, 95%CI 78-89</text>
+
+  <rect x="374" y="482" width="280" height="142" rx="18" class="tealCard"/>
+  <text x="404" y="528" class="h teal">最終再灌流</text>
+  <text x="404" y="576" class="title teal">92%</text>
+  <text x="404" y="604" class="xs muted">rescue device 5.5%</text>
+
+  <rect x="684" y="482" width="280" height="142" rx="18" class="amberCard"/>
+  <text x="714" y="528" class="h amber">First-pass</text>
+  <text x="714" y="576" class="title amber">57%</text>
+  <text x="714" y="604" class="xs muted">mTICI 2b-3</text>
+
+  <rect x="994" y="482" width="280" height="142" rx="18" class="card"/>
+  <text x="1024" y="528" class="h deep">穿刺→再灌流</text>
+  <text x="1024" y="576" class="title deep">19分</text>
+  <text x="1024" y="604" class="xs muted">中央値</text>
+
+  <rect x="1304" y="482" width="232" height="142" rx="18" class="coralCard"/>
+  <text x="1330" y="528" class="h coral">sICH</text>
+  <text x="1330" y="576" class="title coral">1.9%</text>
+  <text x="1330" y="604" class="xs muted">安全性評価</text>
+
+  <rect x="64" y="666" width="472" height="134" rx="18" class="card"/>
+  <text x="96" y="710" class="h deep">90日転帰</text>
+  <text x="96" y="754" class="t ink">mRS 0-2: 55%</text>
+  <text x="96" y="784" class="s muted">死亡率: 12.7%</text>
+
+  <rect x="564" y="666" width="472" height="134" rx="18" class="card"/>
+  <text x="596" y="710" class="h deep">臨床的な読み方</text>
+  <text x="596" y="754" class="t ink">早い再灌流 + rescue低率</text>
+  <text x="596" y="784" class="s muted">システム設計が手技効率に効く可能性</text>
+
+  <rect x="1064" y="666" width="472" height="134" rx="18" class="card"/>
+  <text x="1096" y="710" class="h deep">注意点</text>
+  <text x="1096" y="754" class="t ink">単群・非ランダム化</text>
+  <text x="1096" y="784" class="s muted">既存技術由来のperformance goalと比較</text>
+
+  <rect x="64" y="824" width="1472" height="48" rx="14" fill="#123f49"/>
+  <text x="92" y="856" class="sub" fill="#fff">Take-home: 0.088インチを含む一体型Zoomシステムは、迅速な再灌流と低い救済治療率を示した。</text>
+</svg>
