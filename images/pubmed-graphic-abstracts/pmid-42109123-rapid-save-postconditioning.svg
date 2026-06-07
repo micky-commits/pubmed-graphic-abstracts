@@ -1,1 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><rect width="1600" height="900" fill="#f7fbfb"/><rect width="1600" height="118" fill="#153f4a"/><text x="64" y="58" font-size="38" fill="#fff" font-weight="800">RAPID SAVE</text><text x="64" y="98" font-size="24" fill="#ccebed" font-weight="600">血栓回収後の局所虚血ポストコンディショニング</text><text x="1390" y="72" font-size="24" fill="#fff" font-weight="700">PMID: 42109123</text><rect x="64" y="168" width="450" height="410" rx="14" fill="#e6f4f1" stroke="#64aaa5" stroke-width="4"/><rect x="575" y="168" width="450" height="410" rx="14" fill="#fff7ea" stroke="#e3a548" stroke-width="4"/><rect x="1086" y="168" width="450" height="410" rx="14" fill="#fdeeed" stroke="#df7e74" stroke-width="4"/><text x="96" y="218" font-size="30" fill="#12615b" font-weight="800">対象</text><text x="96" y="282" font-size="26" fill="#20303a" font-weight="700">前方循環LVO</text><text x="96" y="318" font-size="26" fill="#20303a" font-weight="500">TICI 2b/3再開通後</text><text x="96" y="354" font-size="26" fill="#20303a" font-weight="500">5分以内に開始</text><text x="607" y="218" font-size="30" fill="#8b5a04" font-weight="800">介入・評価</text><text x="607" y="282" font-size="26" fill="#20303a" font-weight="700">2分遮断 / 2分再灌流</text><text x="607" y="318" font-size="26" fill="#20303a" font-weight="500">4サイクルが最適候補</text><text x="1118" y="218" font-size="30" fill="#9a312c" font-weight="800">主要結果</text><text x="1118" y="282" font-size="26" fill="#20303a" font-weight="700">安全性基準を満たし</text><text x="1118" y="318" font-size="26" fill="#20303a" font-weight="500">有効性シグナルあり</text><text x="1118" y="354" font-size="26" fill="#20303a" font-weight="500">3分/3分以上は毒性懸念</text><path d="M520 370 L565 370" stroke="#53656d" stroke-width="8" stroke-linecap="round"/><path d="M555 350 L580 370 L555 390" fill="none" stroke="#53656d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M1031 370 L1076 370" stroke="#53656d" stroke-width="8" stroke-linecap="round"/><path d="M1066 350 L1091 370 L1066 390" fill="none" stroke="#53656d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><rect x="64" y="638" width="1472" height="150" rx="18" fill="#fff" stroke="#d6e2e2" stroke-width="3"/><text x="96" y="692" font-size="30" fill="#153f4a" font-weight="800">臨床的Take-home</text><text x="96" y="742" font-size="30" fill="#20303a" font-weight="700">再開通直後の追加保護戦略として、2/2分 x4を次相試験へ。</text><text x="64" y="842" font-size="20" fill="#63747a">Japanese graphical abstract / PubMed新着文献アラートDB</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      .bg{fill:#f6faf9}.ink{fill:#17333a}.muted{fill:#5f7378}.deep{fill:#0f4954}.teal{fill:#0f766e}.coral{fill:#c5534a}.amber{fill:#af6b00}
+      .title{font:800 42px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}.sub{font:700 24px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}
+      .h{font:800 28px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}.t{font:600 23px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}
+      .s{font:600 19px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}.xs{font:600 16px -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif}
+      .card{fill:#fff;stroke:#d5e3e3;stroke-width:2}.softTeal{fill:#e6f4f1;stroke:#64aaa5;stroke-width:3}.softAmber{fill:#fff4df;stroke:#e0a043;stroke-width:3}.softCoral{fill:#fdebea;stroke:#de7771;stroke-width:3}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M1,1 L11,6 L1,11 Z" fill="#49636b"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1600" height="900"/>
+  <rect x="0" y="0" width="1600" height="126" fill="#123f49"/>
+  <text x="58" y="58" class="title" fill="#fff">RAPID SAVE: 血栓回収後の局所虚血ポストコンディショニング</text>
+  <text x="60" y="98" class="sub" fill="#c9eceb">再開通直後に「短時間の遮断/再灌流」を追加する第I相・用量探索試験</text>
+  <rect x="1284" y="35" width="258" height="54" rx="12" fill="#e6f4f1"/>
+  <text x="1310" y="69" class="sub deep">PMID 42109123</text>
+
+  <rect x="54" y="154" width="392" height="238" rx="18" class="softTeal"/>
+  <text x="82" y="196" class="h teal">対象</text>
+  <text x="82" y="240" class="t ink">前方循環LVO</text>
+  <text x="82" y="274" class="t ink">血栓回収で mTICI 2b/3</text>
+  <text x="82" y="308" class="t ink">再開通後 5分以内に開始</text>
+  <text x="82" y="354" class="s muted">単群・前向き・多施設 / n=25</text>
+
+  <rect x="482" y="154" width="636" height="238" rx="18" class="card"/>
+  <text x="512" y="196" class="h deep">手技イメージ</text>
+  <path d="M540 285 C620 220, 710 220, 790 285 C865 348, 965 348, 1040 285" fill="none" stroke="#91b8bb" stroke-width="18" stroke-linecap="round"/>
+  <path d="M540 285 C620 220, 710 220, 790 285 C865 348, 965 348, 1040 285" fill="none" stroke="#1a7f78" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="782" cy="285" r="31" fill="#f6d0c8" stroke="#c5534a" stroke-width="5"/>
+  <rect x="752" y="267" width="60" height="36" rx="18" fill="#fff" stroke="#c5534a" stroke-width="4"/>
+  <text x="690" y="248" class="s coral">Balloon guide catheter</text>
+  <text x="565" y="348" class="s ink">同側 C1-頭蓋内ICAで一時遮断</text>
+  <text x="794" y="348" class="s ink">inflate / deflate を反復</text>
+
+  <rect x="1154" y="154" width="392" height="238" rx="18" class="softAmber"/>
+  <text x="1182" y="196" class="h amber">判定ルール</text>
+  <text x="1182" y="240" class="t ink">毒性閾値: 15%</text>
+  <text x="1182" y="274" class="t ink">有効性目標: 60%</text>
+  <text x="1182" y="308" class="t ink">72時間で梗塞増大 ≤10 mL</text>
+  <text x="1182" y="354" class="s muted">Bayesian Optimal Interval Phase I/II</text>
+
+  <line x1="250" y1="424" x2="1350" y2="424" stroke="#49636b" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="660" y="414" class="s muted">6段階の用量候補から、安全性と有効性のバランスで選択</text>
+
+  <rect x="64" y="456" width="220" height="118" rx="16" fill="#eef6f5" stroke="#bfd6d5" stroke-width="2"/>
+  <text x="95" y="494" class="h teal">15/15秒</text><text x="126" y="531" class="t ink">×5</text><text x="91" y="558" class="xs muted">候補</text>
+  <rect x="306" y="456" width="220" height="118" rx="16" fill="#eef6f5" stroke="#bfd6d5" stroke-width="2"/>
+  <text x="367" y="494" class="h teal">1/1分</text><text x="369" y="531" class="t ink">×4</text><text x="333" y="558" class="xs muted">候補</text>
+  <rect x="548" y="438" width="250" height="154" rx="18" fill="#d9f0ea" stroke="#0f766e" stroke-width="5"/>
+  <text x="620" y="481" class="h teal">2/2分</text><text x="623" y="522" class="h ink">×4</text><text x="590" y="560" class="s teal">選択された最適候補</text>
+  <rect x="820" y="456" width="220" height="118" rx="16" fill="#fdebea" stroke="#de7771" stroke-width="3"/>
+  <text x="880" y="494" class="h coral">3/3分</text><text x="882" y="531" class="t ink">×4</text><text x="844" y="558" class="xs coral">停止ルール発動</text>
+  <rect x="1062" y="456" width="220" height="118" rx="16" fill="#f3eeee" stroke="#cdbfbd" stroke-width="2"/>
+  <text x="1123" y="494" class="h muted">4/4分</text><text x="1124" y="531" class="t ink">×4</text><text x="1108" y="558" class="xs muted">未推奨</text>
+  <rect x="1304" y="456" width="220" height="118" rx="16" fill="#f3eeee" stroke="#cdbfbd" stroke-width="2"/>
+  <text x="1365" y="494" class="h muted">5/5分</text><text x="1366" y="531" class="t ink">×4</text><text x="1350" y="558" class="xs muted">未推奨</text>
+
+  <rect x="64" y="626" width="472" height="172" rx="18" class="softTeal"/>
+  <text x="96" y="670" class="h teal">2/2分×4 の成績</text>
+  <text x="96" y="716" class="t ink">n=20 / 有効性達成 14例</text>
+  <text x="96" y="750" class="t ink">DLT 1例: 大きな梗塞増大</text>
+  <text x="96" y="780" class="s muted">毒性過剰の確率は閾値未満</text>
+
+  <rect x="564" y="626" width="472" height="172" rx="18" class="softCoral"/>
+  <text x="596" y="670" class="h coral">3/3分×4 の成績</text>
+  <text x="596" y="716" class="t ink">n=5 / 有効性達成 3例</text>
+  <text x="596" y="750" class="t ink">DLT 2例: 大きな梗塞増大</text>
+  <text x="596" y="780" class="s coral">安全性ルールで上位用量を停止</text>
+
+  <rect x="1064" y="626" width="472" height="172" rx="18" class="card"/>
+  <text x="1096" y="670" class="h deep">結論</text>
+  <text x="1096" y="716" class="t ink">再開通直後のrLICは実施可能</text>
+  <text x="1096" y="750" class="t ink">2/2分×4が最も有望</text>
+  <text x="1096" y="780" class="s muted">大規模な有効性検証試験へ</text>
+
+  <rect x="64" y="824" width="1472" height="48" rx="14" fill="#123f49"/>
+  <text x="92" y="856" class="sub" fill="#fff">Take-home: 「再開通を得た後」に、過量を避けた短時間ポストコンディショニングを上乗せする発想。</text>
+</svg>
