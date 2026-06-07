@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="36" font-weight="700" fill="#fff">CHOICE-2: EVT成功後のIA alteplase</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 42096239 | JAMA 2026 | adjunctive intra-arterial alteplase after thrombectomy</text>
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#fff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">RCT</text>
+  <text x="92" y="300" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#0f172a">14施設, Spain</text>
+  <text x="92" y="350" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#0f172a">成功EVT後, n=440</text>
+  <text x="92" y="400" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#0f172a">IA alteplase 0.225 mg/kg</text>
+  <text x="92" y="450" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#0f172a">vs EVT単独</text>
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">有効性</text>
+  <text x="597" y="315" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="42" font-weight="700" fill="#0e7490">mRS 0-1</text>
+  <text x="597" y="375" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" fill="#155e75">57.5% vs 42.5%</text>
+  <text x="597" y="435" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#155e75">残存低灌流 28.6% vs 50.5%</text>
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">安全性</text>
+  <text x="1102" y="315" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#7c2d12">sICH 1.4% vs 0.5%</text>
+  <text x="1102" y="375" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#7c2d12">死亡 12.1% vs 6.4%</text>
+  <text x="1102" y="435" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="27" fill="#7c2d12">死亡増加は要検証</text>
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">Take-home</text>
+  <text x="92" y="625" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">成功EVT後のIA alteplaseは90日excellent outcomeを増やした。</text>
+  <text x="92" y="667" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">sICH増加は有意でないが、死亡率上昇シグナルは今後の検証課題。</text>
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Renú A, et al. JAMA. 2026. PMID: 42096239</text>
+</svg>
