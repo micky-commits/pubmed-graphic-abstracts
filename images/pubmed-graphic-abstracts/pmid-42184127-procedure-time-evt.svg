@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f8fbff"/>
+  <rect x="36" y="30" width="1528" height="128" rx="18" fill="#0b5f7a"/>
+  <text x="72" y="82" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="36" font-weight="700" fill="#fff">EVT処置時間: 10分延びるごとの代償</text>
+  <text x="72" y="125" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="23" fill="#d7f3ff">PMID: 42184127 | European Stroke Journal 2026 | pooled analysis of 3 RCTs</text>
+  <rect x="60" y="190" width="470" height="305" rx="16" fill="#fff" stroke="#86c5da" stroke-width="3"/>
+  <text x="92" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0b5f7a">解析</text>
+  <text x="92" y="300" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#0f172a">中国3 RCT pooled</text>
+  <text x="92" y="350" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#0f172a">前方循環LVO EVT</text>
+  <text x="92" y="400" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#0f172a">n=2845</text>
+  <text x="92" y="450" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="28" fill="#0f172a">中央値PT 69分</text>
+  <rect x="565" y="190" width="470" height="305" rx="16" fill="#fff7ed" stroke="#f1a768" stroke-width="3"/>
+  <text x="597" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#9a3412">10分延長ごと</text>
+  <text x="597" y="315" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" fill="#7c2d12">mRS 0-2: -1.52%</text>
+  <text x="597" y="375" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" fill="#7c2d12">死亡: +0.77%</text>
+  <text x="597" y="435" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#7c2d12">sICH oddsも上昇</text>
+  <rect x="1070" y="190" width="470" height="305" rx="16" fill="#ecfeff" stroke="#67e8f9" stroke-width="3"/>
+  <text x="1102" y="242" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="32" font-weight="700" fill="#0e7490">時間カテゴリ</text>
+  <text x="1102" y="310" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="30" fill="#155e75">PT ≤60分を基準</text>
+  <text x="1102" y="365" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#155e75">60-120分: aOR 0.658</text>
+  <text x="1102" y="420" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#155e75">&gt;120分: aOR 0.355</text>
+  <rect x="60" y="525" width="1480" height="176" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="92" y="575" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="34" font-weight="700" fill="#0f172a">Take-home</text>
+  <text x="92" y="625" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">EVT中の処置時間延長は、良好転帰低下・死亡増加と連続的に関連。</text>
+  <text x="92" y="667" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="29" fill="#0f172a">FPEだけでなく、回避可能な手技内遅延を削る運用が重要。</text>
+  <text x="60" y="875" font-family="'Noto Sans JP','Hiragino Sans',sans-serif" font-size="20" fill="#64748b">Chen X, et al. Eur Stroke J. 2026. PMID: 42184127</text>
+</svg>
