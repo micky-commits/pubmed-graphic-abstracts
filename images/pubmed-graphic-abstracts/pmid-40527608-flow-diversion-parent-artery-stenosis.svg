@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f7fbfb"/>
+  <rect x="0" y="0" width="1600" height="122" fill="#143f4a"/>
+  <text x="60" y="57" font-size="39" fill="#ffffff" font-weight="850">母血管狭窄を伴う動脈瘤FD</text>
+  <text x="60" y="98" font-size="24" fill="#cfecee" font-weight="650">狭窄病因別にみる閉塞率と再狭窄リスク</text>
+  <text x="1376" y="72" font-size="23" fill="#ffffff" font-weight="750">PMID: 40527608</text>
+
+  <rect x="60" y="154" width="442" height="338" rx="14" fill="#e7f5f2" stroke="#65aaa4" stroke-width="4"/>
+  <text x="92" y="207" font-size="31" fill="#11635d" font-weight="850">対象</text>
+  <text x="92" y="268" font-size="27" fill="#1d2f36" font-weight="650">4包括センター 後ろ向き</text>
+<text x="92" y="305" font-size="27" fill="#1d2f36" font-weight="650">FD治療 161例</text>
+<text x="92" y="342" font-size="27" fill="#1d2f36" font-weight="650">ICAS・ICAD・MAに分類</text>
+  <circle cx="408" cy="390" r="45" fill="#65aaa4" opacity="0.24"/>
+  <path d="M379 398 c14 -38 44 -38 58 0" fill="none" stroke="#11635d" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="408" cy="362" r="22" fill="#11635d" opacity="0.85"/>
+
+  <rect x="579" y="154" width="442" height="338" rx="14" fill="#fff7eb" stroke="#e2a249" stroke-width="4"/>
+  <text x="611" y="207" font-size="31" fill="#8a5905" font-weight="850">方法・比較</text>
+  <text x="611" y="268" font-size="27" fill="#1d2f36" font-weight="650">Flow diverter留置後</text>
+<text x="611" y="305" font-size="27" fill="#1d2f36" font-weight="650">臨床転帰・完全閉塞</text>
+<text x="611" y="342" font-size="27" fill="#1d2f36" font-weight="650">in-stent restenosisを評価</text>
+  <path d="M736 392 h126" stroke="#8a5905" stroke-width="12" stroke-linecap="round"/>
+  <path d="M844 358 l52 34 -52 34" fill="none" stroke="#8a5905" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="1098" y="154" width="442" height="338" rx="14" fill="#fdeeed" stroke="#df7e74" stroke-width="4"/>
+  <text x="1130" y="207" font-size="31" fill="#9a312c" font-weight="850">結果</text>
+  <text x="1130" y="268" font-size="27" fill="#1d2f36" font-weight="650">全例mRS 0-2</text>
+<text x="1130" y="305" font-size="27" fill="#1d2f36" font-weight="650">完全閉塞 64.0%</text>
+<text x="1130" y="342" font-size="27" fill="#1d2f36" font-weight="650">ICASで再狭窄 28%</text>
+  <path d="M1414 388 l28 30 l58 -78" fill="none" stroke="#9a312c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="60" y="536" width="468" height="138" rx="14" fill="#ffffff" stroke="#d8e5e5" stroke-width="3"/>
+  <rect x="566" y="536" width="468" height="138" rx="14" fill="#ffffff" stroke="#d8e5e5" stroke-width="3"/>
+  <rect x="1072" y="536" width="468" height="138" rx="14" fill="#ffffff" stroke="#d8e5e5" stroke-width="3"/>
+  <text x="92" y="592" font-size="25" fill="#143f4a" font-weight="800">Point 1</text>
+  <text x="92" y="636" font-size="25" fill="#1d2f36" font-weight="720">FD手技成功率は</text>
+<text x="92" y="671" font-size="25" fill="#1d2f36" font-weight="720">全例で良好</text>
+  <text x="598" y="592" font-size="25" fill="#143f4a" font-weight="800">Point 2</text>
+  <text x="598" y="636" font-size="25" fill="#1d2f36" font-weight="720">ICASは再狭窄と</text>
+<text x="598" y="671" font-size="25" fill="#1d2f36" font-weight="720">再血管形成リスクが高い</text>
+  <text x="1104" y="592" font-size="25" fill="#143f4a" font-weight="800">Point 3</text>
+  <text x="1104" y="636" font-size="25" fill="#1d2f36" font-weight="720">病因別フォローが</text>
+<text x="1104" y="671" font-size="25" fill="#1d2f36" font-weight="720">治療後管理の鍵</text>
+
+  <rect x="60" y="722" width="1480" height="94" rx="18" fill="#143f4a"/>
+  <text x="92" y="780" font-size="30" fill="#ffffff" font-weight="850">母血管狭窄合併動脈瘤のFDでは、特にICASでin-stent再狭窄を強く警戒する。</text>
+  <text x="60" y="858" font-size="19" fill="#61747b">Japanese graphical abstract / PubMed新着文献アラート / 40527608</text>
+</svg>
